@@ -1,0 +1,9 @@
+*.index
+
+# Deployment marker files
+/standalone/deployments/*.dodeploy
+/standalone/deployments/*.isdeploying
+/standalone/deployments/*.deployed
+/standalone/deployments/*.failed
+/standalone/deployments/*.undeploy
+/standalone/deployments/*.undeployed
