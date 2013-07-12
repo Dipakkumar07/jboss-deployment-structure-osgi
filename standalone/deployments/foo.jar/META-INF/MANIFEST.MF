@@ -1,1 +1,4 @@
 Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: com.acme.foo
+Bundle-Version: 1.0
